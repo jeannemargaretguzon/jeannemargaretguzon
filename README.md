@@ -4,10 +4,10 @@
 I’m a data enthusiast with over eight years of experience in finance management, data analytics, and client relations. I love turning complex data into actionable insights and collaborating on innovative solutions.
 
 ### 🔨 Languages and Tools
-Data Analysis SQL, Power BI, Excel
-Programming Languages: Python, C#
-Cloud Development: Azure
-Web Development: HTML/CSS, JavaScript, React, Bootstrap, WordPress</br>
+**Data Analysis:** SQL, Power BI, Excel </br> 
+**Programming Languages:** Python, C# </br> 
+**Cloud Development:** Azure </br> 
+**Web Development:** HTML/CSS, JavaScript, React, Bootstrap, WordPress </br>
 
 ### 📫 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/jmguzon/
