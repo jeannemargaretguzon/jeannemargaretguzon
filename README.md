@@ -1,18 +1,15 @@
-<h1 align="center">Hello! I'm Jeanne Guzon👋</h1>
+<h4 align="center"><sub>An Aspiring Data Analyst and Web Developer from the Philippines.</sub></h4>
+<h1 align="center">Hello! I'm Jeanne Guzon</h1>
 
-### About Me
-An Aspiring Data Analyst and Web Developer from the Philippines. With a love for all things data, I thrive in collaborative environments and love staying updated on the latest tech trends
+I’m a data enthusiast with over eight years of experience in finance management, data analytics, and client relations. I love turning complex data into actionable insights and collaborating on innovative solutions.
 
-### Skills
+### 🔨 Languages and Tools
 Data Analysis SQL, Power BI, Excel
-
 Programming Languages: Python, C#
-
 Cloud Development: Azure
+Web Development: HTML/CSS, JavaScript, React, Bootstrap, WordPress</br>
 
-Web Development: HTML/CSS, JavaScript, React, Bootstrap, WordPress
-
-### Connect with Me
+### 📫 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/jmguzon/
 - **Email:** jeanne.guzon@gmail.com
 - **Discord:** @jieiaininie
